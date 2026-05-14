@@ -1,99 +1,41 @@
 # Hi, I'm Huong 👋
 
-### AI-Enabled Fullstack & Mobile Engineer
+Senior Flutter & Mobile Engineer with 5+ years building scalable ecommerce and SaaS applications.
 
-I build scalable mobile applications, SaaS platforms, and AI-powered business systems.
+## What I Specialize In
+- Flutter & React Native apps
+- Ecommerce mobile apps
+- Shopify mobile solutions
+- AI-powered workflows
+- SaaS platforms
 
-With 5+ years of experience in Flutter and React Native development, I have worked on production-grade ecommerce, real estate, and Shopify-based applications serving thousands of users.
+## Featured Projects
 
-Currently focusing on:
-- AI-powered applications
-- Automation workflows
-- Fullstack SaaS systems
-- Mobile architecture & performance optimization
-
----
-
-## 🚀 Tech Stack
-
-### Mobile
+### Ecommerce App (30k+ users)
 - Flutter
-- React Native
-- Swift
-- Kotlin
-
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-
-### Backend
-- Node.js
-- REST APIs
-- GraphQL
-- Firebase
-
-### AI & Automation
-- OpenAI API
-- LangChain
-- AI Workflow Automation
-
-### Tools & Engineering
-- Git
-- CI/CD
-- Clean Architecture
-- MVVM
-- Agile/Scrum
-
----
-
-## 📱 Featured Projects
-
-### 🏢 Real Estate Mobile Platform
-Production real estate application with:
-- Map-based property search
-- Citizen ID verification
-- E-signature workflows
-- Backend API integrations
-
-### 🛒 Ecommerce Mobile Application
-Large-scale ecommerce platform serving 30k+ active users:
-- Payment gateway integrations
+- Payment integrations
 - Shipping systems
-- Advanced mobile UI/UX
-- Performance optimization
+- High-performance architecture
 
-### 🛍 Shopify Mobile App Builder
-Mobile app builder solution enabling Shopify merchants to convert ecommerce stores into native mobile applications.
+[screenshot here]
 
----
+### Shopify Mobile App Builder
+- Convert Shopify stores into mobile apps
+- Push notifications
+- Real-time sync
 
-## 🧠 Currently Learning
+[screenshot]
 
-- AI Agents
-- Vector Databases
-- Fullstack SaaS Architecture
-- AI Business Automation
-- Advanced Next.js
+## Tech Stack
+Flutter | React Native | Node.js | Firebase | OpenAI | GraphQL
 
----
+## Why Clients Work With Me
+✅ Production-grade apps  
+✅ Fast communication  
+✅ Clean scalable architecture  
+✅ Long-term support  
+✅ Experience leading mobile teams
 
-## 📈 Goals for 2026
-
-- Build AI-powered SaaS products
-- Create scalable automation systems
-- Contribute to open-source projects
-- Expand expertise in AI engineering
-
----
-
-## 📫 Contact
-
-- Email: nguyensyhuong3010@gmail.com
-- GitHub: https://github.com/nguyensyhuong
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building products that solve real business problems and improve user experiences through scalable engineering.
+## Contact
+Upwork: ...
+Email: ...
