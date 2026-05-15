@@ -123,6 +123,8 @@ Available for:
 - AI integrations
 - Long-term product development
 
-📩 Email: nguyensyhuong3010@gmail.com  
+📫 Email: nguyensyhuong3010@gmail.com
+
 💼 GitHub: https://github.com/nguyensyhuong
+
 🌐 Portfolio: https://huong-engineering-portfolio.vercel.app/
